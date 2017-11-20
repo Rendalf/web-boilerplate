@@ -1,0 +1,7 @@
+.todoItem {
+  font-size: 16px;
+}
+
+.todoItemCompleted {
+  text-decoration: line-through;
+}

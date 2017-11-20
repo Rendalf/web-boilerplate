@@ -1,0 +1,5 @@
+node_modules/
+npm-debug.log*
+style_typings/
+.vscode/
+public/
